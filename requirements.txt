@@ -1,0 +1,4 @@
+filterpy
+ultralytics
+opencv-python
+numpy
